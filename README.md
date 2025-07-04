@@ -1,7 +1,4 @@
-<p align="center">
-<img src="image.png"
-alt="logo" width=200 height=165>
-</p> 
+
 
 <h3 align="center">Sales Dashboard in Excel for Monthly Analysis</h3> 
 <p align="center">An interactive Excel dashboard designed to analyze monthly sales trends, product performance, and key business metrics with visual insights.</p>
